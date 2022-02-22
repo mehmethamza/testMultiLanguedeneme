@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'test' => 'news/{test}'
+    'test' => 'news/{test}',
+    'page' => '{page?}'
 ];
